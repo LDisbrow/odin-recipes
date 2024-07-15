@@ -1,0 +1,16 @@
+*{
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+h2{
+    background-color: rgb(5, 153, 22);
+    color: white;
+}
+
+h1{
+    color: rgb(5, 153, 22);
+}
+
+li{
+    font-size: 20px;
+}
